@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "syTn3Blnf2pD//ClMQ2TRksHhFTeQbdNxMmCW9OKhyJIm6uP+VimPFATlfV2Nu3RBblIO7GSHieyYL+ZrqPalA==",
+  "dgSpecHash": "4ngc3ajwy6J4Ai49PiXCBYyDT6VAHgmpoOldNjAq0gn3FKWkq60aDkZmZbxfNzUDolxrvWzl3BXpa7OQwYHK2w==",
   "success": true,
   "projectFilePath": "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\Entity\\Entity.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\juan-\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

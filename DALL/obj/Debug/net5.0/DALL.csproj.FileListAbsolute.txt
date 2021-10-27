@@ -1,0 +1,15 @@
+C:\Users\juan-\OneDrive\Documentos\Pweb\Parcial2Corte\DALL\bin\Debug\net5.0\DALL.deps.json
+C:\Users\juan-\OneDrive\Documentos\Pweb\Parcial2Corte\DALL\bin\Debug\net5.0\DALL.dll
+C:\Users\juan-\OneDrive\Documentos\Pweb\Parcial2Corte\DALL\bin\Debug\net5.0\ref\DALL.dll
+C:\Users\juan-\OneDrive\Documentos\Pweb\Parcial2Corte\DALL\bin\Debug\net5.0\DALL.pdb
+C:\Users\juan-\OneDrive\Documentos\Pweb\Parcial2Corte\DALL\bin\Debug\net5.0\Entity.dll
+C:\Users\juan-\OneDrive\Documentos\Pweb\Parcial2Corte\DALL\bin\Debug\net5.0\Entity.pdb
+C:\Users\juan-\OneDrive\Documentos\Pweb\Parcial2Corte\DALL\obj\Debug\net5.0\DALL.csproj.AssemblyReference.cache
+C:\Users\juan-\OneDrive\Documentos\Pweb\Parcial2Corte\DALL\obj\Debug\net5.0\DALL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan-\OneDrive\Documentos\Pweb\Parcial2Corte\DALL\obj\Debug\net5.0\DALL.AssemblyInfoInputs.cache
+C:\Users\juan-\OneDrive\Documentos\Pweb\Parcial2Corte\DALL\obj\Debug\net5.0\DALL.AssemblyInfo.cs
+C:\Users\juan-\OneDrive\Documentos\Pweb\Parcial2Corte\DALL\obj\Debug\net5.0\DALL.csproj.CoreCompileInputs.cache
+C:\Users\juan-\OneDrive\Documentos\Pweb\Parcial2Corte\DALL\obj\Debug\net5.0\DALL.csproj.CopyComplete
+C:\Users\juan-\OneDrive\Documentos\Pweb\Parcial2Corte\DALL\obj\Debug\net5.0\DALL.dll
+C:\Users\juan-\OneDrive\Documentos\Pweb\Parcial2Corte\DALL\obj\Debug\net5.0\ref\DALL.dll
+C:\Users\juan-\OneDrive\Documentos\Pweb\Parcial2Corte\DALL\obj\Debug\net5.0\DALL.pdb

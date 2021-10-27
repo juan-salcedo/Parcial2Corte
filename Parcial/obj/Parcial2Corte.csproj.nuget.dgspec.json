@@ -1,17 +1,150 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\Parcial2Corte.csproj": {}
+    "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\Parcial\\Parcial2Corte.csproj": {}
   },
   "projects": {
-    "c:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\Parcial2Corte.csproj": {
+    "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\Parcial2Corte.csproj",
-        "projectName": "Parcial2Corte",
-        "projectPath": "c:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\Parcial2Corte.csproj",
+        "projectUniqueName": "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\BLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\BLL\\BLL.csproj",
         "packagesPath": "C:\\Users\\juan-\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\obj\\",
+        "outputPath": "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\juan-\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\DALL\\DALL.csproj": {
+                "projectPath": "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\DALL\\DALL.csproj"
+              },
+              "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\Entity\\Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\DALL\\DALL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\DALL\\DALL.csproj",
+        "projectName": "DALL",
+        "projectPath": "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\DALL\\DALL.csproj",
+        "packagesPath": "C:\\Users\\juan-\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\DALL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\juan-\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\Entity\\Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\Entity\\Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\Entity\\Entity.csproj",
+        "projectName": "Entity",
+        "projectPath": "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\Entity\\Entity.csproj",
+        "packagesPath": "C:\\Users\\juan-\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\juan-\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,13 +171,83 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\Parcial\\Parcial2Corte.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\Parcial\\Parcial2Corte.csproj",
+        "projectName": "Parcial2Corte",
+        "projectPath": "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\Parcial\\Parcial2Corte.csproj",
+        "packagesPath": "C:\\Users\\juan-\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\Parcial\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\juan-\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\BLL\\BLL.csproj": {
+                "projectPath": "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\BLL\\BLL.csproj"
+              },
+              "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\DALL\\DALL.csproj": {
+                "projectPath": "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\DALL\\DALL.csproj"
+              },
+              "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\Entity\\Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
             "Microsoft.AspNetCore.SpaServices.Extensions": {
               "target": "Package",
-              "version": "[5.0.11, )"
+              "version": "[5.0.7, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.11, )"
+              "version": "[5.0.9, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
