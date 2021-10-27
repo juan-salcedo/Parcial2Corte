@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\DALL\\DALL.csproj",
-      "projectName": "DALL",
-      "projectPath": "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\DALL\\DALL.csproj",
+      "projectUniqueName": "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\Entity\\Entity.csproj",
+      "projectName": "Entity",
+      "projectPath": "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\Entity\\Entity.csproj",
       "packagesPath": "C:\\Users\\juan-\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\DALL\\obj\\",
+      "outputPath": "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\Entity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\juan-\\AppData\\Roaming\\NuGet\\NuGet.Config"

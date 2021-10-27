@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\Entidad\\Entity.csproj": {}
+    "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\Entity\\Entity.csproj": {}
   },
   "projects": {
-    "c:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\Entidad\\Entity.csproj": {
+    "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\Entidad\\Entity.csproj",
+        "projectUniqueName": "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\Entity\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "c:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\Entidad\\Entity.csproj",
+        "projectPath": "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\Entity\\Entity.csproj",
         "packagesPath": "C:\\Users\\juan-\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\Entidad\\obj\\",
+        "outputPath": "C:\\Users\\juan-\\OneDrive\\Documentos\\Pweb\\Parcial2Corte\\Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\juan-\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,12 +37,6 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "dependencies": {
-            "System.ComponentModel.Annotations": {
-              "target": "Package",
-              "version": "[5.0.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

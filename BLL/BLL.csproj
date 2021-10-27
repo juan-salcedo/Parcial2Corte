@@ -2,7 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DALL\DALL.csproj" />
-    <ProjectReference Include="..\Entidad\Entity.csproj" />
+    <ProjectReference Include="..\Entity\Entity.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
